@@ -108,7 +108,7 @@ a {
     font-size: 1.8rem;
     line-height: 1.5;
     letter-spacing: 0.01em;
-    color: #687691;
+    color: #687690;
 }
 
 .hero .title {
@@ -584,7 +584,7 @@ a {
     font-weight: 400;
     font-size: 1.6rem;
     color: #7a7a7e;
-    white-space: nowrap;  /* Văn bản sẽ hiển thị trên cùng một hàng */
+    white-space: nowrap; /* Văn bản sẽ hiển thị trên cùng một hàng */
 }
 
 .footer .desc {
